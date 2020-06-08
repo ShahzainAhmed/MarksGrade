@@ -6,4 +6,4 @@
 - Use an else condition to decide the grade based on the average of the marks.
 
 ### Program Explanation: 
-- User must enter 
+- User must enter 5 different values
