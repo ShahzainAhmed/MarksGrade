@@ -7,3 +7,4 @@
 
 ### Program Explanation: 
 - User must enter 5 different values and store it in separate variables.
+- Then sum up all the five marks 
