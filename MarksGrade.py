@@ -1,5 +1,6 @@
 # Program to find Grade from the marks obtained.
 
+# Taking input of marks of 5 subjects.
 sub1 = int(input("Enter marks of the first subject: "))
 sub2 = int(input("Enter marks of the second subject: "))
 sub3 = int(input("Enter marks of the third subject: "))
