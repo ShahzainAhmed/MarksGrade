@@ -9,3 +9,4 @@
 - User must enter 5 different values and store it in separate variables.
 - Then sum up all the five marks and divide by 5 to find the average of the marks.
 - If the average is greater than 90, “Grade: A” is printed.
+- If the average is in between 80 and 90, “Grade: B” is printed.
