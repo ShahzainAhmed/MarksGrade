@@ -2,4 +2,4 @@
 
 ### Problem Solution: 
 - Take in the marks of 5 subjects from the user and store it in different variables.
-- Find the average
+- Find the average of the marks.
