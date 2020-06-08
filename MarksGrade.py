@@ -6,6 +6,8 @@ sub2 = int(input("Enter marks of the second subject: "))
 sub3 = int(input("Enter marks of the third subject: "))
 sub4 = int(input("Enter marks of the fourth subject: "))
 sub5 = int(input("Enter marks of the fifth subject: "))
+
+# Printing the total marks obtained.
 print("These are the total marks obtained: " + str(sub1 + sub2 + sub3 + sub4 + sub5))
 avg = (sub1 + sub2 + sub3 + sub4 + sub5) / 5
 
