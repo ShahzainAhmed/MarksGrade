@@ -9,6 +9,8 @@ sub5 = int(input("Enter marks of the fifth subject: "))
 
 # Printing the total marks obtained.
 print("These are the total marks obtained: " + str(sub1 + sub2 + sub3 + sub4 + sub5))
+
+# Calculating the average of these 5 subjects marks taken as input from the user.
 avg = (sub1 + sub2 + sub3 + sub4 + sub5) / 5
 
 if (avg >= 90):
