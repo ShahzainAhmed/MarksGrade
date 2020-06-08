@@ -13,6 +13,7 @@ print("These are the total marks obtained: " + str(sub1 + sub2 + sub3 + sub4 + s
 # Calculating the average of these 5 subjects marks taken as input from the user.
 avg = (sub1 + sub2 + sub3 + sub4 + sub5) / 5
 
+# Using if/else statements.
 if (avg >= 90):
     print("Grade: A")
 elif (avg >= 80 & avg < 90):
