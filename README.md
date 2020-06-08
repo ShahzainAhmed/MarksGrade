@@ -1,2 +1,2 @@
-# Find the Grade from the marks obtained:
-find the grade from marks.
+# Python Program to Take in the Marks of 5 Subjects and Display the Grade:
+## 
